@@ -1,7 +1,7 @@
 name: Atonement
 favicon: null
-layout_spectrum: 0.6384221722837538
-typography_spectrum: 0.6528564454056323
+layout_spectrum: 1
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#FBB9BF'
     - '#E376B7'
   brandStrength: 0.5
-  lightness: 1
+  lightness: 0.5
   saturation: 0.6875
   rhythmicContrast: 0.75
 purpose: []
